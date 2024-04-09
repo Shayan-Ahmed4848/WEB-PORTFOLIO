@@ -56,9 +56,9 @@ To secure a challenging position in a dynamic organization where I can contribut
 
 ## Contact Me:
 - **Email:** shayanahmed8484@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- **GitHub:** [Your GitHub Profile](https://github.com/Shayan-Ahmed4848)
-- **Facebook:** [Your Facebook Profile](https://www.facebook.com/people/Muhammad-Shayan-Ahmed/pfbid0CumEWk5ZLvD2qmooCrT4Q4FAqBupV217CwpXA7w4aW4FnSkcSz1BJ1iVnpjnDru9l/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+- **GitHub:** [GitHub Profile](https://github.com/Shayan-Ahmed4848)
+- **Facebook:** [Facebook Profile](https://www.facebook.com/people/Muhammad-Shayan-Ahmed/pfbid0CumEWk5ZLvD2qmooCrT4Q4FAqBupV217CwpXA7w4aW4FnSkcSz1BJ1iVnpjnDru9l/)
 
 
 
