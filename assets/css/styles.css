@@ -366,11 +366,11 @@ img {
 .work__container {
   row-gap: 2rem;
 }
-work__container bd-grid{
+/* .work__container bd-grid{
     hover {
-  background-color: yellow;
+  background-color:Yellow;
 }
-}
+} */
 /*
 .top-part{
     backface-visibility: visible;
