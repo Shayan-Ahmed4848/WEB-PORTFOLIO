@@ -86,7 +86,7 @@ My passion lies in creating scalable web applications using Python's versatility
   [Verify Certificate](https://digiskills.pk/verify)
 
 # Portfolio
-- **GitHub Repo:** [Check on Live](https://github.com/Shayan-Ahmed4848/WEB-PORTFOLIO)
+- **GitHub Repo:** [Check on Live](https://shayan-portfolio-website.vercel.app)
 
 # Contact Me:
 - **Email:** shayanahmed8484@gmail.com
